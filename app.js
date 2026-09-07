@@ -33,3 +33,4 @@ app.get('/api/v1/tours', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+// changed applied
